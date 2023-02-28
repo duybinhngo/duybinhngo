@@ -8,7 +8,7 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<tr><td valign="top" width="33%">
 
 
 
@@ -25,7 +25,7 @@
 
 
 
-</td></tr></table>  
+</td></tr>
 
 <br/>  
 
@@ -73,4 +73,3 @@
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
