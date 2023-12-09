@@ -1,7 +1,7 @@
 ### <div align="center">I'm Binh, a passionate backend developer</div>  
   
 
-- 🌱 I’m a Junior at FPT University  
+- 🌱 I’m a Senior at FPT University  
   
 
 <br/>  
